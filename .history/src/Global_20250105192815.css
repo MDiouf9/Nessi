@@ -1,0 +1,7 @@
+input[type="range"]::-webkit-slider-thumb {
+    width: 4px; /* Réduit la largeur du point */
+    height: 4px; /* Réduit la hauteur du point */
+    background-color: #1d4ed8; /* Change la couleur du point (par exemple, bleu indigo) */
+    border-radius: 9999px; /* Rend le point circulaire */
+    cursor: pointer; /* Change le curseur lorsqu'on survole le point */
+  }

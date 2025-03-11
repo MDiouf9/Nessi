@@ -1,0 +1,5 @@
+input[type="range"]::-webkit-slider-thumb {
+    width: 4px; /* Réduit la largeur du point */
+    height: 4px; /* Réduit la hauteur du point */
+ 
+  }

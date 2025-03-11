@@ -1,0 +1,18 @@
+import React from 'react'
+import Navigation from '../components/Navigation'
+import Countries from '../components/Countries'
+import Header from '../components/Header'
+
+const Home = () => {
+  return (
+    <div>
+       < Header/>
+
+      {/* <Navigation/>
+      <Countries/> */}
+
+    </div>
+  )
+}
+
+export default Home
